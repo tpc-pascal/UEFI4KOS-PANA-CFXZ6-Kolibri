@@ -66,6 +66,7 @@ UEFI4KOS-PANA-CFXZ6-Kolibri/
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── CREDITS.md
+├── GUIDE.md
 ├── LICENSE
 ├── README.md
 └── kolibrios_CFXZ6.png
