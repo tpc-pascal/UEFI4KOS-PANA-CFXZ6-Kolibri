@@ -11,7 +11,7 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
-| 1 | **...** | ... | [...](...) |
+| 1 | **KolibriOS Board** | Small UEFI module to boot kolibri | [Topic](https://board.kolibrios.org/viewtopic.php?t=3270) |
 | 2 | **...** | ... | [...](...) |
 </details>
 
@@ -22,7 +22,7 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
-| 1 | **...** | ... | [...](...) |
+| 1 | **dunkaist** | UEFI4KOS | [Link](https://board.kolibrios.org/download/file.php?id=7726) |
 | 2 | **...** | ... | [...](...) |
 </details>
 
