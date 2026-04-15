@@ -23,7 +23,7 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
 | 1 | **dunkaist** | UEFI4KOS | [Link](https://board.kolibrios.org/download/file.php?id=7726) |
-| 2 | **...** | ... | [...](...) |
+| 2 | **Kolibri** | ISOs and IMGs | [Link](https://builds.kolibrios.org/en_US) |
 </details>
 
 ---
