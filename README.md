@@ -74,7 +74,7 @@ UEFI4KOS-PANA-CFXZ6-Kolibri/
 
 ## 💌 Guide
 
-Đọc thêm tại [GUIDE.md](./GUIDE.md)
+Nếu bạn muốn tự làm thì hướng dẫn tại [GUIDE.md](./GUIDE.md)
 
 ## ✈ Hướng dẫn đóng góp
 
