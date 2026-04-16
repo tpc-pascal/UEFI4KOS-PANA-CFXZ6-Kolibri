@@ -12,7 +12,7 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
 | 1 | **KolibriOS Board** | Small UEFI module to boot kolibri | [Topic](https://board.kolibrios.org/viewtopic.php?t=3270) |
-| 2 | **...** | ... | [...](...) |
+| 2 | **KolibriWiki** | Hardware Support | [Wiki](https://wiki.kolibrios.org/wiki/Hardware_Support) |
 </details>
 
 ## Công cụ (Tools)
