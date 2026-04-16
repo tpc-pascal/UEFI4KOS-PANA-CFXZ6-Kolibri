@@ -14,3 +14,4 @@ menuentry "KolibriOS" {
     shortcuts K
 }
 ```
+7. (optional) Sử dụng [7-Zip](./Tools/7-zip.exe) hoặc [WinImage](./Tools/WinImage.exe) để cập nhật file img
