@@ -5,7 +5,7 @@
 3. Giải nén và chạy Rawrite32Kos.exe để ghi file raw vào USB
 4. Copy folder EFI từ USB vào KOLIBRIOS
 5. Cấu hình KOLIBRI.INI (độ phân giải, boot từ .img hay phân vùng, đường dẫn hệ thống, chế độ sửa lỗi) và thêm DEVICES.DAT (file nhận diện các giao thức kết nối của thiết bị)
-6. Cấu hình phân vùng EFI của máy để trỏ vào BOOTX64.EFI (nếu bạn dùng rEFInd như tôi)
+6. Gán phân vùng EFI bằng việc chạy [EFI_Config.bat](./Tools/EFI_Config.bat) và tùy chỉnh refind.conf (thêm menuentry)
 ```
 menuentry "KolibriOS" {
     icon \EFI\refind\img\icons\os_kolibri.png
