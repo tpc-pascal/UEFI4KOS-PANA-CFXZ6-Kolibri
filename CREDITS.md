@@ -24,6 +24,8 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 |:---:|:---|:---|:---|
 | 1 | **dunkaist** | UEFI4KOS | [Link](https://board.kolibrios.org/download/file.php?id=7726) |
 | 2 | **Kolibri** | ISOs and IMGs | [Link](https://builds.kolibrios.org/en_US) |
+| 3 | **Igor Pavlov** | 7-Zip | [Link](https://www.7-zip.org) |
+| 4 | **WinImage** | Writing disk images | [Link](...) |
 </details>
 
 ---
@@ -32,7 +34,7 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 
 Chúng tôi xin gửi lời cảm ơn đến các cộng đồng và nền tảng phát triển các công cụ sau:
 
-* **Cộng đồng:** Kolibri
+* **Cộng đồng:** Kolibri, 7-Zip, WinImage
 * **Thư viện:** ...
 * **Phần cứng:** Intel
 
