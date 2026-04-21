@@ -58,7 +58,7 @@ Danh sách phần cứng đã được kiểm chứng trên thiết bị thực 
 
 ## 📁 Cấu trúc thư mục
 
-```text
+```
 UEFI4KOS-PANA-CFXZ6-Kolibri/
 ├── EFI/
 │   ├── BOOT/
