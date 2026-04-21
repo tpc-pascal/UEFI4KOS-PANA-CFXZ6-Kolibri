@@ -1,11 +1,12 @@
-# Hướng dẫn nếu bạn muốn tự làm
+# Hướng dẫn
 
+### Real Hardware
 1. Tạo phân vùng FAT12/16/32 mang tên là KOLIBRIOS có kích thước tùy chọn (tối thiểu 100MB, càng nhiều càng tốt)
 2. Tải bản [latest-raw.7z](https://builds.kolibrios.org/en_US/latest-raw.7z)
 3. Giải nén và chạy Rawrite32Kos.exe để ghi file raw vào USB
 4. Copy folder EFI từ USB vào KOLIBRIOS
 5. Cấu hình KOLIBRI.INI (độ phân giải, boot từ .img hay phân vùng, đường dẫn hệ thống, chế độ sửa lỗi) và thêm DEVICES.DAT (file nhận diện các giao thức kết nối của thiết bị)
-6. Gán phân vùng EFI bằng việc chạy [EFI_Config.bat](./Tools/EFI_Config.bat) và tùy chỉnh refind.conf (thêm menuentry)
+6. Gán phân vùng EFI bằng việc run [EFI_Config.bat](./Tools/EFI_Config.bat) và cấu hình refind.conf (thêm menuentry)
 ```
 menuentry "KolibriOS" {
     icon \EFI\refind\img\icons\os_kolibri.png
@@ -14,4 +15,12 @@ menuentry "KolibriOS" {
     shortcuts K
 }
 ```
-7. (optional) Sử dụng [7-Zip](./Tools/7-Zip.exe) hoặc [WinImage](./Tools/WinImage.exe) để cập nhật file img
+7. (optional) Sử dụng [7-Zip](./Tools/7-Zip.exe) hoặc [WinImage](./Tools/WinImage.exe) để bổ sung thêm tính năng vào file img
+
+---
+
+### Virtual Machine
+1. Tải bản [latest-img.7z](https://builds.kolibrios.org/en_US/latest-img.7z)
+2. Run file [KOLIBRI_IMG.bat](./Tools/KOLIBRI_IMG.bat)
+
+(đảm bảo các file phải cùng cấp với nhau)
