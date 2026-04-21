@@ -25,7 +25,8 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 | 1 | **dunkaist** | UEFI4KOS | [Link](https://board.kolibrios.org/download/file.php?id=7726) |
 | 2 | **Kolibri** | ISOs and IMGs | [Link](https://builds.kolibrios.org/en_US) |
 | 3 | **Igor Pavlov** | 7-Zip | [Link](https://www.7-zip.org) |
-| 4 | **WinImage** | Writing disk images | [Link](...) |
+| 4 | **WinImage** | Writing disk images | [Link](https://www.winimage.com) |
+| 5 | **clearlinux** | OVMF.fd | [Link](https://github.com/clearlinux/common/blob/master/OVMF.fd) |
 </details>
 
 ---
