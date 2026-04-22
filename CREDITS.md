@@ -35,8 +35,8 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 
 Chúng tôi xin gửi lời cảm ơn đến các cộng đồng và nền tảng phát triển các công cụ sau:
 
-* **Cộng đồng:** Kolibri, 7-Zip, WinImage
-* **Thư viện:** ...
+* **Cộng đồng:** Kolibri
+* **Công cụ:** 7-Zip, WinImage, QEMU
 * **Phần cứng:** Intel
 
 ---

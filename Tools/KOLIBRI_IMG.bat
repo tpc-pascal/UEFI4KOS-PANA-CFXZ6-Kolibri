@@ -8,7 +8,7 @@ if '%errorlevel%' NEQ '0' (
 echo [INFO] Dang khoi chay KolibriOS IMG...
 echo.
 
-set QEMU_PATH="D:\QEMU Iso Boot Test\qemu"
+set QEMU_PATH="D:\Tools"
 cd /d %QEMU_PATH%
 
 qemu-system-x86_64.exe -fda KOLIBRI.IMG -m 512 -vga std -net none

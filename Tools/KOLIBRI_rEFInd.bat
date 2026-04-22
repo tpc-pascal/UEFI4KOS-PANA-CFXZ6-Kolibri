@@ -8,7 +8,7 @@ if '%errorlevel%' NEQ '0' (
 echo [INFO] Dang khoi chay rEFInd...
 echo.
 
-set QEMU_PATH="D:\QEMU Iso Boot Test\qemu"
+set QEMU_PATH="D:\Tools"
 cd /d %QEMU_PATH%
 
 set DISK_DRIVE=\\.\PhysicalDrive0

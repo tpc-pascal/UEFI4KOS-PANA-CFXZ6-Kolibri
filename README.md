@@ -64,7 +64,6 @@ UEFI4KOS-PANA-CFXZ6-Kolibri/
 │   ├── BOOT/
 │   └── KOLIBRIOS/
 ├── Tools/
-│   └── EFI_Config.bat
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── CREDITS.md

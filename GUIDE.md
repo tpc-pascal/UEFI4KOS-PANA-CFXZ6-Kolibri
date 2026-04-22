@@ -23,4 +23,17 @@ menuentry "KolibriOS" {
 1. Tải bản [latest-img.7z](https://builds.kolibrios.org/en_US/latest-img.7z)
 2. Run file [KOLIBRI_IMG.bat](./Tools/KOLIBRI_IMG.bat) để load trực tiếp lên RAM hoặc [KOLIBRI_rEFInd.bat](./Tools/KOLIBRI_rEFInd.bat) để sử dụng thông qua rEFInd
 
-(đảm bảo các file phải cùng cấp với nhau)
+```
+D:/Tools/
+├── 7-Zip.exe
+├── bios.bin
+├── EFI_Config.bat
+├── KOLIBRI_IMG.bat
+├── KOLIBRI_rEFInd.bat
+├── KOLIBRI.IMG                 # File floppy image
+├── OVMF.fd
+├── qemu-system-x86_64.exe
+├── SDL.dll
+├── vgabios-stdvga.bin
+└── WinImage.exe
+```
