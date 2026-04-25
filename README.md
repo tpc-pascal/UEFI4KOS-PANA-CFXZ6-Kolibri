@@ -60,9 +60,10 @@ Danh sách phần cứng đã được kiểm chứng trên thiết bị thực 
 
 ```
 UEFI4KOS-PANA-CFXZ6-Kolibri/
-├── EFI/
-│   ├── BOOT/
-│   └── KOLIBRIOS/
+├── src/
+│   └── EFI/
+│       ├── BOOT/
+│       └── KOLIBRIOS/
 ├── Tools/
 ├── .gitignore
 ├── CONTRIBUTING.md
