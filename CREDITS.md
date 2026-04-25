@@ -26,7 +26,7 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 | 2 | **Kolibri** | ISOs and IMGs | [Link](https://builds.kolibrios.org/en_US) |
 | 3 | **Igor Pavlov** | 7-Zip | [Link](https://www.7-zip.org) |
 | 4 | **WinImage** | Writing disk images | [Link](https://www.winimage.com) |
-| 5 | **clearlinux** | OVMF.fd | [Link](https://github.com/clearlinux/common/blob/master/OVMF.fd) |
+| 5 | **QEMU** | QEMU | [Link](https://www.qemu.org)
 </details>
 
 ---
