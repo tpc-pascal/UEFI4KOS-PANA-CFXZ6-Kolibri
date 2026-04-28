@@ -6,7 +6,7 @@
 3. Giải nén và chạy Rawrite32Kos.exe để ghi file raw vào USB
 4. Copy folder EFI từ USB vào KOLIBRIOS
 5. Cấu hình KOLIBRI.INI (độ phân giải, boot từ .img hay phân vùng, đường dẫn hệ thống, chế độ sửa lỗi) và thêm DEVICES.DAT (file nhận diện các giao thức kết nối của thiết bị)
-6. Gán phân vùng EFI bằng việc run [EFI_Config.bat](./Tools/EFI_Config.bat) và cấu hình refind.conf (thêm menuentry)
+6. Gán phân vùng EFI bằng việc run [EFI_Config.ps1](./Tools/EFI_Config.ps1) và cấu hình refind.conf (thêm menuentry)
 ```
 menuentry "KolibriOS" {
     icon \EFI\refind\img\icons\os_kolibri.png
@@ -22,15 +22,15 @@ menuentry "KolibriOS" {
 ### Virtual Machine
 1. Tải bản [latest-img.7z](https://builds.kolibrios.org/en_US/latest-img.7z)
 2. Install [qemu-w64-setup-20260422.exe](./Tools/qemu-w64-setup-20260422.exe) và move các file theo cấu trúc bên dưới
-3. Run file [KOLIBRI_IMG.bat](./Tools/KOLIBRI_IMG.bat) để load trực tiếp lên RAM hoặc [KOLIBRI_rEFInd.bat](./Tools/KOLIBRI_rEFInd.bat) để sử dụng thông qua rEFInd
+3. Run file [KOLIBRI_IMG.ps1](./Tools/KOLIBRI_IMG.ps1) để load trực tiếp lên RAM hoặc [KOLIBRI_rEFInd.ps1](./Tools/KOLIBRI_rEFInd.ps1) để sử dụng thông qua rEFInd
 
 ```
 Tools/
 ├── 7-Zip.exe
 ├── bios.bin
-├── EFI_Config.bat
-├── KOLIBRI_IMG.bat
-├── KOLIBRI_rEFInd.bat
+├── EFI_Config.ps1
+├── KOLIBRI_IMG.ps1
+├── KOLIBRI_rEFInd.ps1
 ├── KOLIBRI.IMG                 # File floppy image
 ├── edk2-x86_64-code.fd
 ├── qemu-w64-setup-20260422.exe
